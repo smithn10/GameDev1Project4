@@ -404,3 +404,101 @@ LogInit: Object subsystem initialized
 [2018.12.04-20.17.33:180][980]LogSlate: Window 'Tutorials' being destroyed
 [2018.12.04-20.19.13:297][560]LogSlate: Took 0.041958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
 [2018.12.04-20.20.42:028][547]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.04-20.23.14:647][321]LogEditorTransaction: Undo Move Widget
+[2018.12.04-20.25.12:880][ 38]LogSlate: Window 'Color Picker' being destroyed
+[2018.12.04-20.25.57:348][357]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel_Auto169FBD54043B4D45560B9BDB305B6C484.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/Autosaves/Game/JordanLevel_Auto1.umap'
+[2018.12.04-20.25.57:364][357]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JordanLevel' took 0.117
+[2018.12.04-20.25.57:364][357]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.117
+[2018.12.04-20.25.57:368][357]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/ScheduleWidget] ([1] browsable assets)...
+[2018.12.04-20.25.57:368][357]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/ScheduleWidget]
+[2018.12.04-20.25.57:413][357]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/ScheduleWidget_Auto14E9F94E24BEC9E4A9F9701B798E109BE.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/Autosaves/Game/UI/ScheduleWidget_Auto1.uasset'
+[2018.12.04-20.25.57:417][357]LogFileHelpers: Auto-saving content packages took 0.051
+[2018.12.04-20.27.01:226][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ScheduleWidget" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ScheduleWidget.uasset" SILENT=true
+[2018.12.04-20.27.01:264][610]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/ScheduleWidget244BEE0E4CF05AE01C0A4097FB481490.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ScheduleWidget.uasset'
+[2018.12.04-20.27.06:919][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-20.27.07:016][ 48]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevelDB24B27147639BC3EFE4CCA8C6E3EB5B.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-20.27.35:964][ 36]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/JordanLevel.JordanLevel:PersistentLevel.JordanLevel
+[2018.12.04-20.28.30:347][963]LogSlate: Took 0.011380 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.04-20.28.32:632][193]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.04-20.30.32:460][ 11]LogClass: Warning: Property ListOfBuildings of ListOfBuildings has a struct type mismatch (tag Vector != prop ArrayOfSwitch) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.12.04-20.31.22:528][560]LogClass: Warning: Type mismatch in ListOfBuildings of SKEL_JordanLevel_C - Previous (StructProperty) Current(ObjectProperty) for package:  FObjectReader
+[2018.12.04-20.33.24:910][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-20.33.25:056][ 46]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel089EDC7C479A186B7E9CBE878893C49C.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-20.33.25:108][ 46]LogFileHelpers: Saving map 'JordanLevel' took 0.429
+[2018.12.04-20.36.15:715][685]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.12.04-20.36.21:517][192]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.04-20.36.21:525][192]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.04-20.37.53:437][708]LogSlate: Took 0.018590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.04-20.40.55:048][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-20.40.55:449][510]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel75C05ED44B89DB19FA456A97E6694323.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-20.40.55:506][510]LogFileHelpers: Saving map 'JordanLevel' took 0.680
+[2018.12.04-20.41.41:248][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-20.41.41:645][598]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel8129443A48DAB5CFC7ABE6A46E8854E6.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-20.41.41:696][598]LogFileHelpers: Saving map 'JordanLevel' took 0.663
+[2018.12.04-20.42.15:528][564]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/UI/BuildingDescriptionStruct.BuildingDescriptionStruct
+[2018.12.04-20.44.11:031][442]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/BuildingDescriptionStruct0783AF814BD33D8A954D20952B2C7E8C.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/BuildingDescriptionStruct.uasset'
+[2018.12.04-20.44.21:612][937]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.12.04-20.44.30:801][476]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.04-20.44.30:813][476]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.12.04-20.46.42:600][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-20.46.43:004][222]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel95223A0146A89046648B3CBA8687E74D.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-20.46.43:054][222]LogFileHelpers: Saving map 'JordanLevel' took 0.682
+[2018.12.04-20.47.44:793][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-20.47.45:172][376]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel1EC856464D601021A59A10BA432487BF.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-20.47.45:222][376]LogFileHelpers: Saving map 'JordanLevel' took 0.648
+[2018.12.04-22.09.30:699][336]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2018.12.04-22.09.32:364][338]LogHttp: Warning: 0000025882966480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.12.04-22.09.32:365][338]LogHttp: Warning: 0000025882966480: libcurl info message cache 0 (Connection 21 seems to be dead!)
+[2018.12.04-22.09.32:365][338]LogHttp: Warning: 0000025882966480: libcurl info message cache 1 (Closing connection 21)
+[2018.12.04-22.09.32:365][338]LogHttp: Warning: 0000025882966480: libcurl info message cache 2 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.12.04-22.09.32:365][338]LogHttp: Warning: 0000025882966480: libcurl info message cache 3 (Closing connection 22)
+[2018.12.04-22.12.28:693][ 90]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel_Auto285AD8E0847376F82F93D3EA4E3B58F80.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/Autosaves/Game/JordanLevel_Auto2.umap'
+[2018.12.04-22.12.28:702][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JordanLevel' took 0.205
+[2018.12.04-22.12.28:702][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.205
+[2018.12.04-22.14.59:692][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.14.59:879][895]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel9E03DB7643924CB70C1B508B0EC4AEB9.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-22.14.59:904][895]LogFileHelpers: Saving map 'JordanLevel' took 0.322
+[2018.12.04-22.15.02:028][129]BlueprintLog: New page: Compile JordanLevel
+[2018.12.04-22.15.33:731][883]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/BuildingDescriptionStructCA71BFC34C331E42B1AAE1AD0C4E7941.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/BuildingDescriptionStruct.uasset'
+[2018.12.04-22.16.38:579][ 15]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/UI/Schedule.Schedule
+[2018.12.04-22.18.21:325][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Schedule" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/Schedule.uasset" SILENT=true
+[2018.12.04-22.18.21:339][310]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/Schedule633B19DB43629440F8DA918B90218A07.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/Schedule.uasset'
+[2018.12.04-22.20.48:180][947]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/UI/ClassStruct.ClassStruct
+[2018.12.04-22.21.46:683][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ClassStruct" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ClassStruct.uasset" SILENT=true
+[2018.12.04-22.21.46:696][444]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/ClassStruct17E8BF214F1FF8C2269FEA997D3CE397.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ClassStruct.uasset'
+[2018.12.04-22.21.50:096][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ClassStruct" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ClassStruct.uasset" SILENT=true
+[2018.12.04-22.21.50:110][647]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/ClassStruct9C1274F646768C5DA7A58AB5A309EE06.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ClassStruct.uasset'
+[2018.12.04-22.22.08:112][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ClassStruct" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ClassStruct.uasset" SILENT=true
+[2018.12.04-22.22.08:123][726]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/ClassStruct50D25A1044B47146CF8DB2902BB456E2.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/ClassStruct.uasset'
+[2018.12.04-22.22.27:419][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Schedule" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/Schedule.uasset" SILENT=true
+[2018.12.04-22.22.27:434][880]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/Schedule4FD2789F4E22DD9C73D799A495429CAC.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/UI/Schedule.uasset'
+[2018.12.04-22.23.08:514][344]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.08:514][344]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.08:516][344]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.08:516][344]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.09:490][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.09:490][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.09:491][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.09:492][402]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:458][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:458][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:458][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:458][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:458][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:458][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:459][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:459][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:459][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.10:459][460]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:007][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:007][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:008][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:008][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:008][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:008][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:008][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.23.12:008][553]LogSlateStyle: Warning: Unable to find Slate Widget Style 'ToolBar.Check'. Using FCheckBoxStyle defaults instead.
+[2018.12.04-22.24.49:490][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.24.49:688][388]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevelF71F2DD0468607BE9999CEA7B2468670.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-22.24.49:711][388]LogFileHelpers: Saving map 'JordanLevel' took 0.316
+[2018.12.04-22.27.53:275][379]LogClass: Warning: Property Schedule of Schedule has a struct type mismatch (tag BuildingDescriptionStruct != prop Schedule) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
