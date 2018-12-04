@@ -502,3 +502,13 @@ LogInit: Object subsystem initialized
 [2018.12.04-22.24.49:688][388]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevelF71F2DD0468607BE9999CEA7B2468670.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
 [2018.12.04-22.24.49:711][388]LogFileHelpers: Saving map 'JordanLevel' took 0.316
 [2018.12.04-22.27.53:275][379]LogClass: Warning: Property Schedule of Schedule has a struct type mismatch (tag BuildingDescriptionStruct != prop Schedule) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2018.12.04-22.34.49:647][ 26]LogClass: Warning: Type mismatch in Schedule of JordanLevel_C - Previous (ArrayProperty) Current(StructProperty) for package:  FObjectReader
+[2018.12.04-22.34.49:790][ 26]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel_Auto3527E1CA0498B6E5C14D0D091C133FF47.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/Autosaves/Game/JordanLevel_Auto3.umap'
+[2018.12.04-22.34.49:796][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JordanLevel' took 0.213
+[2018.12.04-22.34.49:796][ 26]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.213
+[2018.12.04-22.39.11:098][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.39.11:299][891]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevel70B2BE1B48FAF3046C5F4C8519320AA2.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-22.39.11:323][891]LogFileHelpers: Saving map 'JordanLevel' took 0.322
+[2018.12.04-22.39.54:013][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JordanLevel" FILE="../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.04-22.39.54:215][490]LogSavePackage: Moving '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Saved/JordanLevelACC1224748D7EA56DDADCFA091F20B2D.tmp' to '../../../../../../Users/jmanf/Documents/Github/GameDev1Project4/UnrealProject4/Content/JordanLevel.umap'
+[2018.12.04-22.39.54:241][490]LogFileHelpers: Saving map 'JordanLevel' took 0.322
